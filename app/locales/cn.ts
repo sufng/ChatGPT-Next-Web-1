@@ -172,7 +172,7 @@ const cn = {
   },
   Store: {
     DefaultTopic: "新的聊天",
-    BotHello: "感谢支持本项目!💗**[点击此处查看使用教程](https://pigat4iq0eo.feishu.cn/docx/Ju4vdgFAhomtyWx6ngYcMSZ7nVb)**",
+    BotHello: "感谢支持本项目!💗[点击此处查看使用教程](https://pigat4iq0eo.feishu.cn/docx/Ju4vdgFAhomtyWx6ngYcMSZ7nVb)",
     Error: "出错了，稍后重试吧",
     Prompt: {
       History: (content: string) =>
